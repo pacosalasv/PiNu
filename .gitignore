@@ -1,0 +1,33 @@
+# .gitignore
+__pycache__/
+*.py[cod]
+*.pyo
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+build/
+dist/
+temp/
+tmp/
+.cache/
+.venv/
+venv/
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+*.pptx
+*.docx
+*.xls*
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Packaged releases, private key containers, and local Office working files
+*.gz
+*.xls
+*.xlsx

@@ -1,0 +1,15 @@
+{
+  "description": "Public technical/product index for PiNu, an independent physical + digital product venture.",
+  "homepage": "https://pinu.com.mx/",
+  "visibility": "public",
+  "has_issues": false,
+  "has_discussions": false,
+  "topics": [
+    "pinu",
+    "digital-products",
+    "physical-products",
+    "nfc",
+    "qr",
+    "product-development"
+  ]
+}
