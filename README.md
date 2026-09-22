@@ -1,23 +1,19 @@
 # PiNu
 
-**Independent physical + digital product venture**
+PiNu is an independent physical-digital product venture that connects physical products with browser-based experiences using NFC, QR, and selected AR.
 
-PiNu combines physical products with browser-based digital experiences using technologies such as NFC, QR, and selected AR.
-
-**Status:** Active venture. This repository is a lightweight public technical/product index; PiNu's official site remains the primary customer destination.
+Status: active venture. The official PiNu site is the primary customer destination.
 
 [Visit PiNu](https://pinu.com.mx/)
 
-## GitHub role
+## Purpose of this repository
 
-This repository exists so future public technical material has a stable home without turning GitHub into a duplicate storefront.
+This repository is a technical and product index for public material that belongs on GitHub. Product purchasing, current product information, and customer-facing content remain on the official PiNu site.
 
-Public code, documentation, integrations, or case-study material will be added only when there is a clear reason to publish it. Product purchasing, current product information, and customer-facing content belong on the official PiNu site.
+Public code, documentation, integrations, or case studies will be added when there is a clear reason to publish them.
 
-## Builder context
+## Builder
 
-Paco Salas | DRH is the founder/builder behind the product and digital-experience work while **PiNu retains its own brand identity**.
-
----
+Paco Salas | DRH is the founder and builder behind the product and digital-experience work. PiNu keeps its own brand identity.
 
 Official product site: [pinu.com.mx](https://pinu.com.mx/)
