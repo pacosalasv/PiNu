@@ -1,19 +1,25 @@
 # PiNu
 
-PiNu is an independent physical-digital product venture that connects physical products with browser-based experiences using NFC, QR, and selected AR.
+PiNu is a Mexico-based physical-digital product venture built around 3D collectibles and products that open browser experiences through NFC, QR, and selected AR interactions.
 
-Status: active venture. The official PiNu site is the primary customer destination.
+The physical product remains useful on its own; the digital layer adds play, focus tools, audio, stories, missions, or identity without requiring a separate app.
 
 [Visit PiNu](https://pinu.com.mx/)
 
-## Purpose of this repository
+## Current product families
 
-This repository is a technical and product index for public material that belongs on GitHub. Product purchasing, current product information, and customer-facing content remain on the official PiNu site.
+| Product | Role |
+|---|---|
+| **¡Cataplum!** | Physical strategy game with optional browser-based AR missions and effects. |
+| **Focus-Tap** | NFC/QR clicker that opens focus and timer tools. |
+| **Click Secreto / Misión** | NFC/QR clicker that opens a short daily audio experience. |
+| **PiNu Pals** | Flexible characters and PetBox experiences connected to short stories. |
+| **Dummy13** | Articulated figure with customization, accessories, and a digital identity layer. |
 
-Public code, documentation, integrations, or case studies will be added when there is a clear reason to publish them.
+The official site is the primary customer destination for product details, availability, activation, support, and purchasing. GitHub is reserved for technical material, integrations, reusable documentation, or case studies when there is a clear reason to publish them.
 
 ## Builder
 
-Paco Salas | DRH is the founder and builder behind the product and digital-experience work. PiNu keeps its own brand identity.
+Paco Salas | DRH is the founder and builder behind PiNu's physical products and digital-experience work. PiNu keeps its own customer-facing brand identity.
 
 Official product site: [pinu.com.mx](https://pinu.com.mx/)
