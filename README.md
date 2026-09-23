@@ -20,6 +20,6 @@ The official site is the primary customer destination for product details, avail
 
 ## Builder
 
-Paco Salas | DRH is the founder and builder behind PiNu's physical products and digital-experience work. PiNu keeps its own customer-facing brand identity.
+[Paco Salas | DRH](https://pacosalasv.blogspot.com/) is the founder and builder behind PiNu's physical products and digital-experience work. PiNu keeps its own customer-facing brand identity.
 
 Official product site: [pinu.com.mx](https://pinu.com.mx/)
